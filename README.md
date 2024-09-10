@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me <a href=""><img src="Handshake.gif" width="60"></a></h2>
 
 ###
 
