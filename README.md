@@ -1,14 +1,11 @@
-<div align="center">
-  <img height="100" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"  />
-</div>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h1 align="left">
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	Hi, Welcome to my profile!
-	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
-</h1>
+<br clear="both">
+
+<img align="right" height="100" src=".github/workflows/about_me.gif"  />
+
 
 ###
 
@@ -61,11 +58,9 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GITLAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![ECLIPSE](https://img.shields.io/badge/Eclipsez-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 ### Operative System
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
