@@ -63,8 +63,10 @@
 
 <h2 align="center">Repositories</h2>
 
+
 <p width="100%" align="center">
   <a align="left" href="https://github.com/shreyash027/Core-Java" title="Core-Java"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyash027&repo=Core-Java&theme=gotham"></a>
+  
   <a align="right" href="https://github.com/shreyash027/Pattern-Programs" title="Pattern-Programs"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyash027&repo=Pattern-Programs&theme=gotham"></a>
 </p>
 <br><br>
@@ -72,6 +74,7 @@
   <a align="left" href="https://github.com/shreyash027/course-management-app-project" title="course-management-app-project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyash027&repo=course-management-app-project&theme=gotham"></a>
   <a align="right" href="https://github.com/shreyash027/Elevatorproject" title="Elevatorproject"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyash027&repo=Elevatorproject&theme=gotham"></a>
 </p>
+<br><br>
 <br><br>
 <br><br>
 <br><br>
